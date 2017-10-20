@@ -1,5 +1,5 @@
 {
-  "name": "electrolyte",
+  "name": "@engramo/electrolyte",
   "version": "0.2.7",
   "description": "Elegant dependency injection for Node.js.",
   "keywords": [
