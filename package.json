@@ -1,6 +1,6 @@
 {
   "name": "@engramo/electrolyte",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Elegant dependency injection for Node.js.",
   "keywords": [
     "require",
